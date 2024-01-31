@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yafet Nega</h1>
-<h3 align="center">Excellent developer with 4+ years in the industry and high-level proficiency guiding the progress of analysis, design, development, and testing of applications through all stages of development cycles. Solid team leader with excellent communication skills and the ability to build quality solutions for scalable environments using modern technologies.</h3>
+<h3 align="left">Excellent developer with 4+ years in the industry and high-level proficiency guiding the progress of analysis, design, development, and testing of applications through all stages of development cycles. Solid team leader with excellent communication skills and the ability to build quality solutions for scalable environments using modern technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yafetnega&label=Profile%20views&color=0e75b6&style=flat" alt="yafetnega" /> </p>
 
