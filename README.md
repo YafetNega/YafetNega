@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yafet Nega</h1>
-<h6 align="left">a software professional with over five years of experience as both a Project Manager and a Full-Stack Developer. I’ve led software teams to deliver high-quality products by managing tasks, resolving roadblocks, and ensuring clear communication with clients. I use tools like Notion, Slack, GitHub, Trello, and Jira to keep projects on track.
+<h1 align="center">Hi 👋,</h1>
+<h6 align="left">I'm Yafet Nega a software professional with over five years of experience as both a Project Manager and a Full-Stack Developer. I’ve led software teams to deliver high-quality products by managing tasks, resolving roadblocks, and ensuring clear communication with clients. I use tools like Notion, Slack, GitHub, Trello, and Jira to keep projects on track.
 
 As a developer, I built scalable platforms like ACT Academy, ACT Jobs and a lot of e-learning platforms and integrated payment gateways like PayPal, Stripe, and Tele Birr. I also deployed systems on dedicated servers to ensure top performance. My key attribute is I offer a unique mix of project leadership and development experience that drives reliable and effective results.
 
