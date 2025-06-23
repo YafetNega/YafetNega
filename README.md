@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋,</h1>
-<h6 align="left">I'm Yafet Nega a software professional with over five years of experience as both a Project Manager and a Full-Stack Developer. I’ve led software teams to deliver high-quality products by managing tasks, resolving roadblocks, and ensuring clear communication with clients. I use tools like Notion, Slack, GitHub, Trello, and Jira to keep projects on track.
-
-As a developer, I built scalable platforms like ACT Academy, ACT Jobs and a lot of e-learning platforms and integrated payment gateways like PayPal, Stripe, and Tele Birr. I also deployed systems on dedicated servers to ensure top performance. My key attribute is I offer a unique mix of project leadership and development experience that drives reliable and effective results.
-
+<h6 align="left">I'm Yafet Nega a Technical Lead | Full-Stack Developer  with 5+ years of experience in PHP (Laravel), React, and Next.js. Proven ability to
+lead projects and build scalable platforms from concept to deployment, combining technical expertise with
+strong project management skills. I offer a unique blend of development expertise and project leadership for
+delivering high-quality and performance-driven solutions.
 </h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yafetnega&label=Profile%20views&color=0e75b6&style=flat" alt="yafetnega" /> </p>
