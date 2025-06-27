@@ -48,5 +48,3 @@ I’m passionate about writing clean code, automating workflows, and leading tec
 
 ---
 
-> “Code is not just syntax; it's a story of logic, trust, and user empathy.”  
-> — Yafet Nega
