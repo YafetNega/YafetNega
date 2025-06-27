@@ -3,6 +3,7 @@
 📍 Addis Ababa, Ethiopia  
 📞 +251-922-827525  
 📧 [yafet.nwubie@gmail.com](mailto:yafet.nwubie@gmail.com)  
+📧 [yafetnega1997@gmail.com](mailto:yafetnega1997@gmail.com)  
 🌐 [Portfolio](https://yafet.fillatech.et) | [LinkedIn](https://linkedin.com/in/yafetnega)
 
 ---
