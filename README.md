@@ -40,31 +40,6 @@ I’m passionate about writing clean code, automating workflows, and leading tec
 
 ---
 
-## 🔧 Featured Projects
-
-### 🎓 ACT Academy
-A MOOC platform for online learning with integrated course selling, exams, and progress tracking.  
-**Stack:** Laravel, Blade, MySQL, Glide.js  
-[🔗 Live Site](https://seed.actacademy.et)
-
-### 🧪 LMS Proctoring Integration
-Remote exam monitoring system integrated with AI-based proctoring tools like Eklavvya and ExamOnline.  
-**Features:** ID verification, environment scanning, screen lockdown.
-
-### 🧾 Mesirat Registration & Certificate Automation
-Automated PDF generation and file management during user onboarding for training programs.  
-**Stack:** Laravel, dompdf, MySQL
-
----
-
-## 📈 What I Bring to the Table
-- Strong backend logic and architecture in Laravel
-- UI/UX-focused frontend development using React and Next.js
-- Real-world experience leading and delivering full software projects
-- Confidence in database design, integration, and test automation
-
----
-
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/yafetnega)
